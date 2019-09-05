@@ -1,4 +1,4 @@
-# <center>DurIAN : Duration Informed Attention Network</center>
+# <center>DurIAN : Duration Informed Attention Network For Multimodal Syntheis</center>
 
 <center>Chengzhu Yu, Heng Lu, Na Hu, Meng Yu, Chao Weng, Kun Xu, Peng Liu, <br>Shiyin Kang, Deyi Tuo, Guangzhi Lei, Dan Su, Dong Yu</center><br>
 <center>Tencent AI Lab</center>
