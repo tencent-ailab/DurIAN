@@ -181,29 +181,7 @@ Male Synthesis Voice
 
 <br>
 
-### 2. Style Control Synthesis Speech
-
-<center>
-<table align="center">
-  <tbody>
-    <tr>
-      <td colspan="2" ><img src="images/style_control.png" alt="sc"></td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr align="center">
-      <td><audio controls="" preload="auto">
-            <source src="wavs/Media211.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/Media212.wav"></audio></td>
-    </tr>
-  </tbody>
-</table>
-</center>
-
-<br>
-
----
+### 2. Fine-grained Style Control
 
 *"现在狂铁这经济已经冠决全场啊！"*
 
@@ -262,8 +240,28 @@ Male Synthesis Voice
     </tr>
   </tbody>
 </table>
+---
 
+<center>
+<table align="center">
+  <tbody>
+    <tr>
+      <td colspan="2" ><img src="images/style_control.png" alt="sc"></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr align="center">
+      <td><audio controls="" preload="auto">
+            <source src="wavs/Media211.wav"></audio></td>
+      <td><audio controls="" preload="auto">
+            <source src="wavs/Media212.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+---
 <br>
+
 
 ### 3. Live Game Commentary (DurIAN + WaveRNN)
 
