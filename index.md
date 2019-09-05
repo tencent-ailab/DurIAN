@@ -244,6 +244,10 @@ Male Synthesis Voice
 --
 <br>
 
+Left- Gradually changing exciting levels of speech for live game commentary generation
+
+Right- Reproducting exciting momoment of sport commentator (Jiangxiang Huang) at 2006 Word Cup 
+
 <center>
 <table align="center">
   <tbody>
