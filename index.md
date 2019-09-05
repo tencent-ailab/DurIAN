@@ -19,11 +19,11 @@ Paper link: *[https://arxiv.org/abs/1909.01700](https://arxiv.org/abs/1909.01700
 
 <br>
 
-## Examples
+## Sound/Video Samples
 
 <br>
 
-### 1. Male and Female Mandarin Synthesis Speech
+### 1. Speech Synthesis Speech (Sec 5.1)
 
 <br>
 
