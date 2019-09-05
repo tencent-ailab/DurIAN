@@ -1,11 +1,13 @@
-# DurIAN : Duration Informed Attention Network
+# <center>DurIAN : Duration Informed Attention Network</center>
 
-<center>Chengzhu Yu, Heng Lu, Na Hu, Meng Yu, Chao Weng, Kun Xu, Peng Liu, Shiyin Kang, Deyi Tuo, Guangzhi Lei, Dan Su, Dong Yu</center>
+<center>Chengzhu Yu, Heng Lu, Na Hu, Meng Yu, Chao Weng, Kun Xu, Peng Liu, <br>Shiyin Kang, Deyi Tuo, Guangzhi Lei, Dan Su, Dong Yu</center><br>
 <center>Tencent AI Lab</center>
+
+<br>
 
 Paper link: *[https://arxiv.org/abs/1909.01700](https://arxiv.org/abs/1909.01700)*
 
-
+<br>
 
 ## Abstract
 
@@ -13,11 +15,15 @@ We present a generic and robust multimodal speech synthesis system that produces
 
 ![arch](images/DurIAN_v1-7.png)
 
-
+<br>
 
 ## Examples
 
+<br>
+
 ### 1. Male and Female Mandarin Synthesis Speech
+
+<br>
 
 ---
 
@@ -96,6 +102,8 @@ Female Synthesis Voice
 
 ---
 
+<br>
+
 Male Synthesis Voice
 
 <table>
@@ -169,24 +177,29 @@ Male Synthesis Voice
   </tbody>
 </table>
 
-
+<br>
 
 ### 2. Style Control Synthesis Speech
 
-![style_control](images/style_control.png)
-
+<center>
 <table align="center">
   <tbody>
+    <tr>
+      <td colspan="2" ><img src="images/style_control.png" alt="sc"></td>
+    </tr>
+  </tbody>
+  <tbody>
     <tr align="center">
-      <td align="center"><audio controls="" preload="auto">
+      <td><audio controls="" preload="auto">
             <source src="wavs/Media211.wav"></audio></td>
-      <td align="center"><audio controls="" preload="auto">
+      <td><audio controls="" preload="auto">
             <source src="wavs/Media212.wav"></audio></td>
     </tr>
   </tbody>
 </table>
+</center>
 
-
+<br>
 
 ---
 
@@ -217,7 +230,7 @@ Male Synthesis Voice
   </tbody>
 </table>
 
-
+<br>
 
 ---
 
@@ -248,72 +261,74 @@ Male Synthesis Voice
   </tbody>
 </table>
 
-
+<br>
 
 ### 3. Live Game Commentary (DurIAN + WaveRNN)
 
+<br>
 
-
-**Female**
+Female
 
 <iframe width="914" height="500" src="https://www.youtube.com/embed/30iXxgvvlkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
-**Male and Female**
+<br>
+
+Male and Female
 
 <iframe width="914" height="515" src="https://www.youtube.com/embed/ohY8Lft6gD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 ### 4. Talking head for News broadcasting (DurIAN + WaveRNN)
 
 <iframe width="914" height="315" src="https://www.youtube.com/embed/K3v_-u53lQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 ### 5. 3D Avatar Female Host
 
 <iframe width="914" height="515" src="https://www.youtube.com/embed/AnazWGADtnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 ### 6. Emotional Control for talking head
 
-
+<br>
 
 **Neutral**   (DurIAN + Griffin-lim)
 
 <iframe width="914" height="315" src="https://www.youtube.com/embed/JtjV37OelXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
-
+<br>
 
 **Joyful**   (DurIAN + Griffin-lim)
 
 <iframe width="914" height="315" src="https://www.youtube.com/embed/UE0g34Pdxlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
-
+<br>
 
 **Angry**   (DurIAN + Griffin-lim)
 
 <iframe width="914" height="315" src="https://www.youtube.com/embed/N7X6mj-8rtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
-
+<br>
 
 **Sad**   (DurIAN + Griffin-lim)
 
 <iframe width="914" height="315" src="https://www.youtube.com/embed/pdYeiMitbkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
-
+<br>
 
 **Live commentary**  （DurIAN + WaveRNN）
 
 <iframe width="914" height="315" src="https://www.youtube.com/embed/PptNj5xBzHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
-
+<br>
 
 **Passionate Live commentary**  （DurIAN + WaveRNN）
 
 <iframe width="914" height="315" src="https://www.youtube.com/embed/flNL8kIY-TM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 ![logo](images/logo.png)
