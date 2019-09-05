@@ -177,11 +177,12 @@ Male Synthesis Voice
 
 <br>
 
-### 2. Fine-grained Style Control
+### 2. Fine-grained Style Control (Sec 5.3)
 
 <br>
 
 *"现在狂铁这经济已经冠决全场啊！"*
+\* Note: griffin-lim vocoder used
 
 <table>
   <tbody>
