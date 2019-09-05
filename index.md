@@ -182,7 +182,8 @@ Male Synthesis Voice
 <br>
 
 *"现在狂铁这经济已经冠决全场啊！"*
-\* Note: griffin-lim vocoder used
+
+\* Note: Generated with Griffin-lim vocoder.
 
 <table>
   <tbody>
@@ -212,6 +213,8 @@ Male Synthesis Voice
 <br>
 
 *"一血九九四送出去了！"*
+
+\* Note: Generated with WaveRNN vocoder.
 
 <table>
   <tbody>
