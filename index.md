@@ -32,7 +32,7 @@ Female Synthesis Voice
 <table align="center">
   <thead>
     <tr>
-      <th>DurIAN</a></th>
+      <th>DurIAN</th>
       <th>Tacotron-2</th>
     </tr>
   </thead>
@@ -109,7 +109,7 @@ Male Synthesis Voice
 <table>
   <thead>
     <tr>
-      <th>DurIAN</a></th>
+      <th>DurIAN</th>
       <th>Tacotron-2</th>
     </tr>
   </thead>
