@@ -3,7 +3,7 @@
 <center>Chengzhu Yu, Heng Lu, Na Hu, Meng Yu, Chao Weng, Kun Xu, Peng Liu, Shiyin Kang, Deyi Tuo, Guangzhi Lei, Dan Su, Dong Yu</center>
 <center>Tencent AI Lab</center>
 
-Paper link: *https://arxiv.org/abs/1909.01700*
+Paper link: *[https://arxiv.org/abs/1909.01700](https://arxiv.org/abs/1909.01700)*
 
 
 
@@ -23,7 +23,7 @@ We present a generic and robust multimodal speech synthesis system that produces
 
 Female Synthesis Voice
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>DurIAN</a></th>
@@ -175,12 +175,12 @@ Male Synthesis Voice
 
 ![style_control](images/style_control.png)
 
-<table>
+<table align="center">
   <tbody>
-    <tr>
-      <td><audio controls="" preload="auto">
+    <tr align="center">
+      <td align="center"><audio controls="" preload="auto">
             <source src="wavs/Media211.wav"></audio></td>
-      <td><audio controls="" preload="auto">
+      <td align="center"><audio controls="" preload="auto">
             <source src="wavs/Media212.wav"></audio></td>
     </tr>
   </tbody>
