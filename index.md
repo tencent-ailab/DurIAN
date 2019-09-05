@@ -27,8 +27,6 @@ Paper link: *[https://arxiv.org/abs/1909.01700](https://arxiv.org/abs/1909.01700
 
 <br>
 
----
-
 Female Synthesis Voice
 
 <table align="center">
@@ -101,8 +99,6 @@ Female Synthesis Voice
     </tr>
   </tbody>
 </table>
-
----
 
 <br>
 
@@ -183,6 +179,8 @@ Male Synthesis Voice
 
 ### 2. Fine-grained Style Control
 
+<br>
+
 *"现在狂铁这经济已经冠决全场啊！"*
 
 <table>
@@ -212,8 +210,6 @@ Male Synthesis Voice
 
 <br>
 
----
-
 *"一血九九四送出去了！"*
 
 <table>
@@ -240,7 +236,9 @@ Male Synthesis Voice
     </tr>
   </tbody>
 </table>
----
+
+--
+<br>
 
 <center>
 <table align="center">
