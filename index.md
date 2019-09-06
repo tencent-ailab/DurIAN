@@ -39,12 +39,6 @@ Female Synthesis Voice
   <tbody>
     <tr>
       <td><audio controls="" preload="auto">
-            <source src="wavs/test01.npy.wav"></audio></td>
-      <td><audio controls="" preload="auto">
-            <source src="wavs/test01.wav"></audio></td>
-    </tr>
-    <tr>
-      <td><audio controls="" preload="auto">
             <source src="wavs/test03.npy.wav"></audio></td>
       <td><audio controls="" preload="auto">
             <source src="wavs/test03.wav"></audio></td>
