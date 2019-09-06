@@ -273,68 +273,66 @@ Right: Reproducting exciting momoment of 2006 Word Cup
 
 <br>
 
-Female
+Male and Female
 
-<iframe width="700" height="500" src="https://www.youtube.com/embed/30iXxgvvlkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="500" src="https://www.youtube.com/embed/ohY8Lft6gD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
 ---
 
 <br>
 
-Male and Female
+Female
 
-<iframe width="700" height="500" src="https://www.youtube.com/embed/ohY8Lft6gD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+<iframe width="900" height="500" src="https://www.youtube.com/embed/30iXxgvvlkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 4. Talking head for News broadcasting (DurIAN + WaveRNN)
 
-<iframe width="914" height="315" src="https://www.youtube.com/embed/K3v_-u53lQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
 
-### 5. 3D Avatar Female Host
+### 4. 3D Avatar Female Host
 
 <iframe width="914" height="515" src="https://www.youtube.com/embed/AnazWGADtnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-### 6. Emotional Control for talking head
+### 5. Emotional Control for talking head
 
 <br>
 
 **Neutral**   (DurIAN + Griffin-lim)
 
-<iframe width="914" height="315" src="https://www.youtube.com/embed/JtjV37OelXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="200" src="https://www.youtube.com/embed/JtjV37OelXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 <br>
 
 **Joyful**   (DurIAN + Griffin-lim)
 
-<iframe width="914" height="315" src="https://www.youtube.com/embed/UE0g34Pdxlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="200" src="https://www.youtube.com/embed/UE0g34Pdxlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 <br>
 
 **Angry**   (DurIAN + Griffin-lim)
 
-<iframe width="914" height="315" src="https://www.youtube.com/embed/N7X6mj-8rtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="200" src="https://www.youtube.com/embed/N7X6mj-8rtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 <br>
 
 **Sad**   (DurIAN + Griffin-lim)
 
-<iframe width="914" height="315" src="https://www.youtube.com/embed/pdYeiMitbkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="200" src="https://www.youtube.com/embed/pdYeiMitbkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 <br>
 
 **Live commentary**  （DurIAN + WaveRNN）
 
-<iframe width="914" height="315" src="https://www.youtube.com/embed/PptNj5xBzHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="200" src="https://www.youtube.com/embed/PptNj5xBzHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 <br>
 
 **Passionate Live commentary**  （DurIAN + WaveRNN）
 
-<iframe width="914" height="315" src="https://www.youtube.com/embed/flNL8kIY-TM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="200" src="https://www.youtube.com/embed/flNL8kIY-TM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![logo](images/logo.png)
