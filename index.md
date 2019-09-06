@@ -21,7 +21,7 @@ Paper link: *[https://arxiv.org/abs/1909.01700](https://arxiv.org/abs/1909.01700
 
 ## Sound/Video Samples
 
-\*Note: All samples are in Mandrin Chinese.
+\* <sup>Note: All samples are in Mandrin Chinese.</sup>
 
 ### 1. Speech Synthesis Speech (Sec 5.1)
 
