@@ -265,9 +265,8 @@ Male Synthesis Voice
   </tbody>
 </table>
 </center>
----
-<br>
 
+<br>
 
 ### 3. Live Game Commentary (DurIAN + WaveRNN)
 
