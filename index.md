@@ -252,7 +252,7 @@ Right: Reproducting exciting momoment of 2006 Word Cup
 <table align="center">
   <tbody>
     <tr>
-      <td colspan="2" ><img src="images/style_control.png" alt="sc"></td>
+      <td colspan="2" ><img src="images/style_control.png =1000x500" alt="sc"></td>
     </tr>
   </tbody>
   <tbody>
