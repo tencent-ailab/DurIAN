@@ -1,4 +1,4 @@
-# <center>DurIAN : Duration Informed Attention Network For Multimodal Syntheis</center>
+# <center>DurIAN : Duration Informed Attention Network For Multimodal Synthesis</center>
 
 <center>Chengzhu Yu, Heng Lu, Na Hu, Meng Yu, Chao Weng, Kun Xu, Peng Liu, <br>Shiyin Kang, Deyi Tuo, Guangzhi Lei, Dan Su, Dong Yu</center><br>
 <center>Tencent AI Lab</center>
@@ -244,9 +244,9 @@ Male Synthesis Voice
 
 <br>
 
-Left: Changing exciting levels of speech for live Game Commentary generation
+*Left: Changing exciting levels during live Game Commentary generation*
 
-Right: Reproducting exciting momoment of 2006 Word Cup 
+*Right: 2006 Word Cup Huang Jianxiang commentary generation (exciting!!!)* 
 
 <center>
 <table align="center">
