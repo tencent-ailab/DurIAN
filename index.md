@@ -241,7 +241,7 @@ Male Synthesis Voice
   </tbody>
 </table>
 
---
+
 <br>
 
 Left: Changing exciting levels of speech for live Game Commentary generation
