@@ -249,7 +249,7 @@ Male Synthesis Voice
 *Right: 2006 Word Cup Jiangxiang Huang (黄健翔）commentary generation (exciting!!!)* 
 
 <center>
-<table align="center">
+<table align="center" width="1000">
   <tbody>
     <tr>
       <td colspan="2" ><img src="images/style_control.png" alt="sc" width="1000" height="400"></td>
