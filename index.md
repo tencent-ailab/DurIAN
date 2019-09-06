@@ -246,7 +246,7 @@ Male Synthesis Voice
 
 *Left: Changing exciting levels during live Game Commentary generation*
 
-*Right: 2006 Word Cup Huang Jianxiang commentary generation (exciting!!!)* 
+*Right: 2006 Word Cup Jiangxiang Huang (黄健翔）commentary generation (exciting!!!)* 
 
 <center>
 <table align="center">
